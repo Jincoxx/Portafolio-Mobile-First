@@ -24,7 +24,7 @@ header .profile {
 }
 
 .container {
-  border: 1px solid #ddd;
+  border: 0px solid #ddd;
   display: flex;
   justify-content: space-around;
   align-content: center;
@@ -34,7 +34,7 @@ header .profile {
 }
 
 .profile {
-  border: 1px solid #ddd; /*para ver el borde donde estoy trabajando*/
+  border: 0px solid #ddd; /*para ver el borde donde estoy trabajando*/
   display: flex;
   flex-direction: column;
   align-items: flex-start;
